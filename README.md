@@ -75,7 +75,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanaHassan/RehanaHassan/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehanaHassan/RehanaHassan/output/dist/github-contribution-grid-snake.svg">
-![snake gif](https://github.com/RehanaHassan/RehanaHassan/blob/output/github-snake.svg)
+<br> ![snake gif](https://github.com/RehanaHassan/RehanaHassan/blob/output/github-snake.svg) <br>
   </picture>
 </p>
 
