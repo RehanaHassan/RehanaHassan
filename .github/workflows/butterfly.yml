@@ -1,5 +1,6 @@
 name: GitHub Butterfly
-
+permissions:
+  contents: write
 on:
 
   # Run every day at midnight UTC
