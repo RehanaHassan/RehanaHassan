@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rehana Hassan</h1>
-<h3 align="center">Computer Science student at FAST University | Exploring AI & Machine Learning</h3>
+<h3 align="center">MS AI Engineering @ COMSATS | BSCS @ FAST University</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:FF4FCB&height=180&section=header&text=Rehana%20Hassan&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26amp%3B%20ML%20Enthusiast&descAlignY=58&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:FF4FCB&height=180&section=header&text=Rehana%20Hassan&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=MS%20AI%20Engineering%20%40%20COMSATS%20%7C%20BSCS%20%40%20FAST%20University&descAlignY=58&descSize=18" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4FCB&center=true&vCenter=true&width=500&lines=CS+Student+%40+FAST+University;Exploring+AI+%26+Machine+Learning;Building+with+Python%2C+C%2FC%2B%2B%2C+C%23;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4FCB&center=true&vCenter=true&width=500&lines=MS+AI+Engineering+%40+COMSATS;BSCS+%40+FAST+University;Exploring+AI+%26+Machine+Learning;Building+with+Python%2C+C%2FC%2B%2B%2C+C%23;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
-- 🎓 Computer Science student at **FAST University**
+- 🎓 **MS AI Engineering** @ **COMSATS** | **BSCS** @ **FAST University**
 - 🤖 Currently exploring **AI, Machine Learning, and Python**
 - 🛠️ Recently built an OS-component simulator, a custom C-like language compiler, and an e-commerce optimization suite
 - 💼 **Open to internship opportunities**
