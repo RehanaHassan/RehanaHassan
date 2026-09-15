@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student at FAST University | Exploring AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:FF4FCB&height=180&section=header&text=Rehana%20Hassan&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:FF4FCB&height=180&section=header&text=Rehana%20Hassan&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26amp%3B%20ML%20Enthusiast&descAlignY=58&descSize=18" alt="banner" />
 </p>
 
 <p align="center">
