@@ -1,5 +1,5 @@
 name: GitHub Snake Game
-
+#Allowed permission
 permissions:
   contents: write
 
