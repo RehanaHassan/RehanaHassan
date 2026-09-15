@@ -65,10 +65,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=RehanaHassan&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF4FCB&icon_color=D8A7FF&text_color=E0C3FC" alt="RehanaHassan's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RehanaHassan&show_icons=true&hide_border=true&bg_color=0D0221&title_color=FF4FCB&icon_color=D8A7FF&text_color=FFFFFF" alt="RehanaHassan's GitHub stats" />
 </p>
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanaHassan&hide_border=true&background=0D0221&ring=FF4FCB&fire=FF4FCB&currStreakLabel=D8A7FF" alt="RehanaHassan's GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanaHassan&hide_border=true&background=0D0221&ring=FF4FCB&fire=FF4FCB&currStreakNum=FFFFFF&currStreakLabel=FF4FCB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="RehanaHassan's GitHub streak" />
 </p>
 
 ---
