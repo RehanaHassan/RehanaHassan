@@ -71,6 +71,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanaHassan&hide_border=true&background=0D0221&ring=FF4FCB&fire=FF4FCB&currStreakNum=FFFFFF&currStreakLabel=FF4FCB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="RehanaHassan's GitHub streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanaHassan/RehanaHassan/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehanaHassan/RehanaHassan/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RehanaHassan/RehanaHassan/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
 ---
 
 <p align="center">
