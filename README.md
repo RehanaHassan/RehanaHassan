@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4FCB&center=true&vCenter=true&width=500&lines=MS+AI+Engineering+%40+COMSATS;BSCS+%40+FAST+University;Exploring+AI+%26+Machine+Learning;Building+with+Python%2C+C%2FC%2B%2B%2C+C%23;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
+
 - 🎓 **MS AI Engineering** @ **COMSATS** | **BSCS** @ **FAST University**
 - 🤖 Currently exploring **AI, Machine Learning, and Python**
 - 🛠️ Recently built an OS-component simulator, a custom C-like language compiler, and an e-commerce optimization suite
@@ -30,6 +31,7 @@
 ### 🖥️ Tech Stack
 
 **Languages**
+
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF4FCB" />
